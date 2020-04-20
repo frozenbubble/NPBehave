@@ -1,0 +1,17 @@
+{
+    "name": "NPBehaveExamples",
+    "references": [
+        "GUID:82ba0fd30263abc42b6d991a1109835e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
